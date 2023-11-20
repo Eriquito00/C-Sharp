@@ -1,0 +1,2 @@
+C:\Users\Eriquito00\source\repos\PPTLS\PPTLS\obj\Debug\PPTLS.csproj.AssemblyReference.cache
+C:\Users\Eriquito00\source\repos\PPTLS\PPTLS\obj\Debug\PPTLS.csproj.CoreCompileInputs.cache
