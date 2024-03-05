@@ -9,3 +9,5 @@
 Para usar el codigo descargaremos todo el archivo, una vez descargado todo haremos click derecho y abrir con visual studio, HAREMOS CLICK DERECHO SOLO EN EL PROYECTO QUE QUERAMOS ABRIR NO EN LA CARPETA DONDE ESTAN TODOS LOS PROYECTOS, una vez entremos al proyecto le damos a iniciar y se ejecutara por consola.
 
 PARA QUE FUNCIONE EL CODIGO HACE FALTA DESCARGAR TODO EL PROYECTO.
+
+![Ejemplo de pez](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png)
