@@ -10,7 +10,9 @@ Para usar el codigo descargaremos todo el archivo, una vez descargado todo harem
 
 PARA QUE FUNCIONE EL CODIGO HACE FALTA DESCARGAR TODO EL PROYECTO.
 
-<center>
-  <h2>Support me</h2>
-  <a href="https://www.buymeacoffee.com/eriquito00"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
-</center>
+<div style="text-align:center;">
+  <h2 style="text-align:center;">Support me</h2>
+  <a href="https://www.buymeacoffee.com/eriquito00" style="display: block; margin: auto;">
+    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/coffee.png" alt="Buy Me A Coffee" width="250">
+  </a>
+</div>
